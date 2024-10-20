@@ -1,0 +1,34 @@
+{
+  "ShopItems": [
+    {
+      "Id": "HP10",
+      "BuyPrice": 3,
+      "ItemType": 1
+    },
+    {
+      "Id": "HP50",
+      "BuyPrice": 5,
+      "ItemType": 1
+    },
+    {
+      "Id": "SpAttack",
+      "BuyPrice": 7,
+      "ItemType": 0
+    },
+    {
+      "Id": "Roll",
+      "BuyPrice": 4,
+      "ItemType": 0
+    },
+    {
+      "Id": "Bone",
+      "BuyPrice": 4,
+      "ItemType": 2
+    },
+    {
+      "Id": "Apple",
+      "BuyPrice": 5,
+      "ItemType": 2
+    }
+  ]
+}

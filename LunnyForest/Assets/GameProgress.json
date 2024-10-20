@@ -1,0 +1,14 @@
+{
+  "CompletedLevels": [
+    {
+      "LevelNumber": 1,
+      "CollectedStarsId": [],
+      "IsCompleted": false
+    },
+    {
+      "LevelNumber": 2,
+      "CollectedStarsId": [],
+      "IsCompleted": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "PlayerItems": [
+    {
+      "Id": "Roll",
+      "Amount": 1,
+      "ItemType": 0
+    },
+    {
+      "Id": "SpAttack",
+      "Amount": 1,
+      "ItemType": 0
+    }
+  ],
+  "Money": 19
+}
